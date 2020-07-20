@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+.bg1{
+    background:linear-gradient( to right,purple 0.4%,deeppink 100%);
+    width: 100%;
+    padding: 120px;
+    text-align: center;
+}
+strong{
+    color: white;
+    font-size: 40px;
+    display: inline-flex;
+}
+#bg2{
+    position: absolute;
+    margin: 50px;
+}
+.container1{
+    padding: 40px;
+    position: absolute;
+    top:30%;
+    width: 100%;
+}
